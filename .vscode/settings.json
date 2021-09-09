@@ -1,7 +1,8 @@
 {
-    "[cpp]": {
-        "editor.defaultFormatter": "ms-vscode.cpptools",
-        "editor.tabSize": 4,
-        "editor.formatOnSave": true
-    }
+    "[cpp]" : {
+        "editor.defaultFormatter" : "ms-vscode.cpptools",
+        "editor.tabSize" : 4,
+        "editor.formatOnSave" : true
+    },
+              "C_Cpp.default.compilerPath" : "C:\\msys64\\mingw64\\bin"
 }
